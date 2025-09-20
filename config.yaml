@@ -1,4 +1,4 @@
-baseURL: "https://shamilnabiyev.github.io"
+baseURL: "https://shamilnabi.github.io"
 title: "Shamil's Notepad"
 theme: [hugo-PaperMod]
 
@@ -81,8 +81,8 @@ params:
       The Notepad covers a variety of topics, including Data Engineering, Machine Learning, Linux tools, Time Series Analysis, and Computer Vision tasks.
   socialIcons:
     - name: github
-      title: GitHub/shamilnabiyev
-      url: "https://github.com/shamilnabiyev"
+      title: GitHub/shamilnabi
+      url: "https://github.com/shamilnabi"
 
   assets:
     disableHLJS: true
